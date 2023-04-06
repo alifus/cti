@@ -9,7 +9,8 @@
                 "STOLEN PENCIL",
                 "Thallium",
                 "Black Banshee",
-                "Velvet Chollima"
+                "Velvet Chollima",
+                "APT43"
             ],
             "x_mitre_domains": [
                 "enterprise-attack"
@@ -50,6 +51,9 @@
                 {
                     "source_name": "Velvet Chollima",
                     "description": "(Citation: Zdnet Kimsuky Dec 2018)(Citation: ThreatConnect Kimsuky September 2020)(Citation: Malwarebytes Kimsuky June 2021)"
+                },
+                    "source_name": "APT43",
+                    "description": "(Citation: Mandiant APT43 March 2023)"
                 },
                 {
                     "source_name": "AhnLab Kimsuky Kabar Cobra Feb 2019",
@@ -105,6 +109,11 @@
                     "source_name": "ThreatConnect Kimsuky September 2020",
                     "url": "https://threatconnect.com/blog/kimsuky-phishing-operations-putting-in-work/",
                     "description": "ThreatConnect. (2020, September 28). Kimsuky Phishing Operations Putting In Work. Retrieved October 30, 2020."
+                },
+                {
+                    "source_name": "Mandiant APT43 March 2023",
+                    "url": "https://www.mandiant.com/resources/reports/apt43-north-korea-cybercrime-espionage/",
+                    "description": "Mandiant. (2023, March 28). APT43: North Korean Group Uses Cybercrime to Fund Espionage Operations. Retrieved March 28, 2023."
                 }
             ],
             "x_mitre_deprecated": false,
